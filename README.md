@@ -1,6 +1,7 @@
 <p>Hey I'm Xamflex.</p>
 <p>I'm a computer sciences student</p>
 <img src="https://github.com/user-attachments/assets/ec4a600e-b7c1-45f3-972b-0ab6728e037e" alt="GIF description" style="width:500px;">
+
 <div>
   <p>Language and tools:</p>
   <img src="https://github.com/user-attachments/assets/dedbe6ef-eac5-482d-ae84-8e9e903ac83a" alt="html5" style="width: 40px;">
@@ -15,4 +16,8 @@
   <img src="https://github.com/user-attachments/assets/a7ca4233-636b-4668-beb7-671a498c025d" alt="Wordpress" style="width: 40px;">
   <img src="https://github.com/user-attachments/assets/315c36c3-1120-4643-ac85-548b798c0370" alt="Windows Server" style="width: 40px;">
 </div>
+
+
+
+
 
